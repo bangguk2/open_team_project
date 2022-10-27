@@ -40,7 +40,7 @@ public class MeshData {
 		triangles.Add (vertices.Count - 2);
 		triangles.Add (vertices.Count - 1);
 		triangles.Add (vertices.Count - 4);
-		Debug.Log(SpriteLoader.instance.GetTileUVs(tile));
+
 		UVs.AddRange (SpriteLoader.instance.GetTileUVs (tile));
 	}
 }
