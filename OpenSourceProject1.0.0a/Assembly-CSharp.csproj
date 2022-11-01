@@ -56,15 +56,21 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Script\Resources\SpriteLoader.cs" />
+    <Compile Include="Assets\Script\SpriteLoader.cs" />
+    <Compile Include="Assets\Script\HPItem.cs" />
     <Compile Include="Assets\Script\PlayerInput.cs" />
+    <Compile Include="Assets\Script\IItem.cs" />
+    <Compile Include="Assets\Script\STItem.cs" />
+    <Compile Include="Assets\Script\NewBehaviourScript.cs" />
     <Compile Include="Assets\Script\PlayerMovement.cs" />
-    <Compile Include="Assets\Script\Resources\MeshData.cs" />
+    <Compile Include="Assets\Script\MeshData.cs" />
     <Compile Include="Assets\Script\Tile.cs" />
+    <Compile Include="Assets\Script\ItemSpawner.cs" />
     <Compile Include="Assets\Script\Noise.cs" />
+    <Compile Include="Assets\Script\THItem.cs" />
     <Compile Include="Assets\Script\World.cs" />
-    <Compile Include="Assets\Script\GameManager.cs" />
     <Compile Include="Assets\Script\Boundary.cs" />
+    <Compile Include="Assets\Script\GameManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
