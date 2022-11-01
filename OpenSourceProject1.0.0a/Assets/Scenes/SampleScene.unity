@@ -174,8 +174,8 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
-  field of view: 60
-  orthographic: 1
+  field of view: 125.9
+  orthographic: 0
   orthographic size: 5
   m_Depth: -1
   m_CullingMask:
@@ -220,7 +220,7 @@ GameObject:
   - component: {fileID: 759396046}
   - component: {fileID: 759396049}
   - component: {fileID: 759396050}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
