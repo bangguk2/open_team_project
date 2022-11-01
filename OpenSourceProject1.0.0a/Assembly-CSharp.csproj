@@ -65,6 +65,9 @@
     <Compile Include="Assets\Script\World.cs" />
     <Compile Include="Assets\Script\Boundary.cs" />
     <Compile Include="Assets\Script\GameManager.cs" />
+    <Compile Include="Assets\Script\CSVReader.cs" />
+    <Compile Include="Assets\Script\CharactorStatusManager.cs" />
+    <Compile Include="Assets\Script\Stat.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
