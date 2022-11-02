@@ -58,9 +58,11 @@
   <ItemGroup>
     <Compile Include="Assets\Script\SpriteLoader.cs" />
     <Compile Include="Assets\Script\HPItem.cs" />
+    <Compile Include="Assets\Script\CharactorStatusManager.cs" />
     <Compile Include="Assets\Script\PlayerInput.cs" />
     <Compile Include="Assets\Script\IItem.cs" />
     <Compile Include="Assets\Script\STItem.cs" />
+    <Compile Include="Assets\Script\CSVReader.cs" />
     <Compile Include="Assets\Script\NewBehaviourScript.cs" />
     <Compile Include="Assets\Script\PlayerMovement.cs" />
     <Compile Include="Assets\Script\MeshData.cs" />
@@ -70,6 +72,7 @@
     <Compile Include="Assets\Script\THItem.cs" />
     <Compile Include="Assets\Script\World.cs" />
     <Compile Include="Assets\Script\Boundary.cs" />
+    <Compile Include="Assets\Script\Stat.cs" />
     <Compile Include="Assets\Script\GameManager.cs" />
   </ItemGroup>
   <ItemGroup>
