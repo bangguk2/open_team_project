@@ -7,6 +7,11 @@ public class FieldItems : MonoBehaviour
     public Item item;
     public SpriteRenderer image;
 
+    public void Start()
+    {
+        Destroy(this.gameObject, 10f);
+        
+    }
     public void SetItem(Item _item) {
         item.itemName = _item.itemName;
         item.itemImage = _item.itemImage;

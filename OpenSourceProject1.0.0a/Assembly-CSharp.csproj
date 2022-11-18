@@ -59,7 +59,9 @@
     <Compile Include="Assets\Script\ItemS\Slot.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SkewTextExample.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs" />
+    <Compile Include="Assets\Script\ItemSpawner.cs" />
     <Compile Include="Assets\Script\ItemS\FieldItems.cs" />
+    <Compile Include="Assets\Script\DayTime.cs" />
     <Compile Include="Assets\Scripts\Sounds\BGMManager.cs" />
     <Compile Include="Assets\Script\World\SpriteLoader.cs" />
     <Compile Include="Assets\Script\ItemS\ItemEffect.cs" />
@@ -89,6 +91,7 @@
     <Compile Include="Assets\Script\World\CSVReader.cs" />
     <Compile Include="Assets\Scripts\UnitCode.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMPro_InstructionOverlay.cs" />
+    <Compile Include="Assets\Script\MonsterSpawner.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextConsoleSimulator.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ObjectSpin.cs" />

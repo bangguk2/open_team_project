@@ -166,7 +166,7 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7083135725253502841}
-  m_BodyType: 0
+  m_BodyType: 1
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
@@ -223,7 +223,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   canvas: {fileID: 0}
-  prfHpBar: {fileID: 1908328006773766704, guid: fd2b698d77085a84d8658757db6dae0e,
-    type: 3}
+  prfHpBar: {fileID: 1908328006773766704, guid: fd2b698d77085a84d8658757db6dae0e, type: 3}
   hpBarOffset: {x: 0, y: 1.7, z: 0}
   hpBarScale: {x: 1, y: 1, z: 1}
