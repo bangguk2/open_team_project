@@ -1,1 +1,1 @@
-C:\Users\전휘소\Desktop\2학년2학기\오픈소스프로그래밍\tmpcheck\open_team_project\OpenSourceProject1.0.0a
+D:\git_1\opensource\open_team_project\OpenSourceProject1.0.0a

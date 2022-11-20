@@ -64,6 +64,7 @@
     <Compile Include="Assets\Script\DayTime.cs" />
     <Compile Include="Assets\Scripts\Sounds\BGMManager.cs" />
     <Compile Include="Assets\Script\World\SpriteLoader.cs" />
+    <Compile Include="Assets\Script\UI\Quit.cs" />
     <Compile Include="Assets\Script\ItemS\ItemEffect.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
     <Compile Include="Assets\Script\ItemS\Item.cs" />
@@ -126,6 +127,7 @@
     <Compile Include="Assets\Scripts\Items\GemBlue.cs" />
     <Compile Include="Assets\Scripts\Items\GemGreen.cs" />
     <Compile Include="Assets\Script\ItemS\ItemDatabase.cs" />
+    <Compile Include="Assets\Script\UI\SC_Start.cs" />
     <Compile Include="Assets\Script\PlayerShooting.cs" />
     <Compile Include="Assets\Scripts\Status.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\DropdownSample.cs" />
